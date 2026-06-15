@@ -1,6 +1,6 @@
 package JAVA_DAY_14;
 import java.util.*;
-public class TOKEN_MANAGEMENT_SYSTEM {
+public class QUEUE_TOKEN_MANAGEMENT_SYSTEM {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
